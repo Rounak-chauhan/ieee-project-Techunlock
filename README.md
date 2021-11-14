@@ -13,7 +13,7 @@
 - Download or clone the repository https://github.com/Rounak-chauhan/ieee-project-Techunlock.git
 
 ```
-git clone 
+git clone https://github.com/Rounak-chauhan/ieee-project-Techunlock.git
 ```
 
 - Go to the directory
